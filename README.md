@@ -4,7 +4,7 @@
 If you wish to paste lorem-ipsum somewhere, but don't want to go through some website or wait for any plugin to load, just open instantLipsum and hit the keyboard shortcut: **`Ctrl`+`Shift`+`L`**.
 
 [Download](https://drive.google.com/uc?export=download&id=1vEW3JFS7Hjv2ftT39PUcofppJEYhufJn) 
-### `Ctrl`+`Shift`+`L` → paste lorem ipsum.
+## `Ctrl`+`Shift`+`L` → paste lorem ipsum.
 
 This is a very simple implementation of `AutoHotKeys`, an automation scripting language for Windows. This is how it works, **`Ctrl`+`Shift`+`L`** →
 1. Save the existing clipboard content.
